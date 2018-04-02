@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1399575515 source:c:\users\okt\desktop\odev44\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1399571915 source:g:\odev4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
